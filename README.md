@@ -1,2 +1,2 @@
-# thermal-fluiditics-digital-testing
+# thermal-fluidics-digital-testing
 repository for the paper
